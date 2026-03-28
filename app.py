@@ -921,4 +921,3 @@ with tab8:
         🔄 Click refresh buttons to get latest data
     </div>
     """, unsafe_allow_html=True)
-
